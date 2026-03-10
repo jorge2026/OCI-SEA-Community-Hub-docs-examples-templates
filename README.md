@@ -1,3 +1,14 @@
+<p align="center">
+	<img src="docs/assets/oci-sea-banner.svg" alt="OCI SEA Community Hub Banner" width="100%" />
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Cloud-OCI-F80000?style=for-the-badge" alt="OCI" />
+	<img src="https://img.shields.io/badge/Region-SEA-10BBD6?style=for-the-badge" alt="SEA" />
+	<img src="https://img.shields.io/badge/Focus-Docs%20Examples%20Templates-1F2A44?style=for-the-badge" alt="Focus" />
+	<img src="https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge" alt="MIT" />
+</p>
+
 # OCI + SEA Community Hub
 
 Repositorio comunitario para documentar, compartir y reutilizar contenido práctico sobre Oracle Cloud Infrastructure (OCI), con foco regional en Southeast Asia (SEA).
