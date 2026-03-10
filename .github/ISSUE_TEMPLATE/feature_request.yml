@@ -1,0 +1,10 @@
+name: Feature request
+description: Proponer nueva guía/template/ejemplo
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    attributes:
+      label: Qué quieres agregar
+    validations:
+      required: true
