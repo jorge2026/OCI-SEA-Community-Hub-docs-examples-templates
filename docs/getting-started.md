@@ -35,13 +35,13 @@ Al finalizar esta guía deberías poder:
    - Terraform: [examples/terraform/README.md](../examples/terraform/README.md)
    - OCI CLI: [examples/cli/README.md](../examples/cli/README.md)
 4. Ejecuta los pasos del ejemplo.
-5. Ejecuta cleanup o destroy al terminar.
+5. Elimina los recursos al terminar.
 
 ## Checklist rápido
 
 - [ ] Tengo credenciales de OCI fuera del repositorio.
 - [ ] Entiendo el costo potencial del ejemplo.
-- [ ] Voy a ejecutar cleanup después de validar.
+- [ ] Voy a eliminar los recursos después de validar.
 - [ ] No voy a exponer datos sensibles en PRs o issues.
 
 ## Próximos pasos

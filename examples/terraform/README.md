@@ -1,6 +1,6 @@
 # Terraform Examples
 
-Cada ejemplo incluye `init`, `plan`, `apply`, `destroy` y cleanup.
+Cada ejemplo incluye los pasos `init`, `plan`, `apply` y `destroy`, además de cleanup al final.
 
 ## Qué esperar
 
