@@ -4,7 +4,7 @@
 
 ![OCI](https://img.shields.io/badge/Cloud-OCI-F80000?style=for-the-badge)
 ![SEA](https://img.shields.io/badge/Region-SEA-10BBD6?style=for-the-badge)
-![Docs, ejemplos y plantillas](https://img.shields.io/badge/Focus-Docs%20Examples%20Templates-1F2A44?style=for-the-badge)
+![Docs, ejemplos y plantillas](https://img.shields.io/badge/Focus-Docs%20ejemplos%20y%20plantillas-1F2A44?style=for-the-badge)
 ![MIT](https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge)
 
 Repositorio comunitario para documentar, compartir y reutilizar contenido práctico sobre Oracle Cloud Infrastructure (OCI), con foco regional en Southeast Asia (SEA).
