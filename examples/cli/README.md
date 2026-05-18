@@ -5,5 +5,5 @@ Scripts de automatización con variables por entorno.
 ## Qué esperar
 
 - Comandos reutilizables.
-- Variables explícitas por ambiente.
+- Variables explícitas por entorno.
 - Pasos de cleanup al finalizar.

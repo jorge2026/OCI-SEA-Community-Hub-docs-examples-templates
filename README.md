@@ -4,7 +4,7 @@
 
 ![OCI](https://img.shields.io/badge/Cloud-OCI-F80000?style=for-the-badge)
 ![SEA](https://img.shields.io/badge/Region-SEA-10BBD6?style=for-the-badge)
-![Docs, Examples y Templates](https://img.shields.io/badge/Focus-Docs%20Examples%20Templates-1F2A44?style=for-the-badge)
+![Docs, ejemplos y plantillas](https://img.shields.io/badge/Focus-Docs%20Examples%20Templates-1F2A44?style=for-the-badge)
 ![MIT](https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge)
 
 Repositorio comunitario para documentar, compartir y reutilizar contenido práctico sobre Oracle Cloud Infrastructure (OCI), con foco regional en Southeast Asia (SEA).
@@ -44,8 +44,8 @@ Este repositorio centraliza:
 
 1. Revisa la guía de inicio en [docs/getting-started.md](docs/getting-started.md).
 2. Elige un punto de partida en [templates/README.md](templates/README.md).
-3. Ejecuta un ejemplo de [examples/terraform/README.md](examples/terraform/README.md) o [examples/cli/README.md](examples/cli/README.md).
-4. Aplica cleanup al terminar para evitar costos innecesarios.
+3. Ejecuta uno de los ejemplos de [examples/terraform/README.md](examples/terraform/README.md) o [examples/cli/README.md](examples/cli/README.md).
+4. Elimina los recursos al terminar para evitar costos innecesarios.
 
 ## Principios del proyecto
 
