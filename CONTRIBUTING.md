@@ -13,7 +13,7 @@ Este repositorio prioriza contenido útil, reproducible y seguro.
 
 ## Flujo recomendado
 
-1. Abre un issue cuando el cambio sea grande o requiera discusión.
+1. Abre un issue con la plantilla adecuada cuando el cambio sea grande o requiera discusión.
 2. Crea una rama desde `initial-structure` o la rama activa:
    - `feat/<tema>` para nuevas capacidades.
    - `fix/<tema>` para correcciones.

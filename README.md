@@ -57,6 +57,7 @@ Este repositorio centraliza:
 ## Contribuir
 
 Las contribuciones son bienvenidas en documentación, ejemplos y templates.
+Usa las plantillas de issue y de PR en `.github/` para mantener el contexto claro y reproducible.
 
 Antes de abrir un PR:
 
