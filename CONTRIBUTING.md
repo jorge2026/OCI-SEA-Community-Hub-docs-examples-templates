@@ -2,30 +2,30 @@
 
 Gracias por contribuir al OCI + SEA Community Hub.
 
-Este repositorio prioriza contenido util, reproducible y seguro.
+Este repositorio prioriza contenido útil, reproducible y seguro.
 
 ## Formas de contribuir
 
-- Mejoras de documentacion.
+- Mejoras de documentación.
 - Nuevos ejemplos (Terraform, OCI CLI, SDK).
 - Nuevas plantillas para acelerar proyectos.
 - Correcciones de errores o mejoras de claridad.
 
 ## Flujo recomendado
 
-1. Abre un issue cuando el cambio sea grande o requiera discusion.
+1. Abre un issue cuando el cambio sea grande o requiera discusión.
 2. Crea una rama desde `initial-structure` o la rama activa:
    - `feat/<tema>` para nuevas capacidades.
    - `fix/<tema>` para correcciones.
-3. Realiza cambios pequenos, claros y enfocados.
+3. Realiza cambios pequeños, claros y enfocados.
 4. Abre un Pull Request con contexto, pasos y resultados esperados.
 
-## Estandar minimo para ejemplos
+## Estándar mínimo para ejemplos
 
 Cada ejemplo debe incluir:
 
 - Objetivo del caso de uso.
-- Prerequisitos tecnicos.
+- Prerrequisitos técnicos.
 - Pasos reproducibles.
 - Costos estimados o advertencia de costos.
 - Cleanup / destroy obligatorio.
@@ -41,8 +41,8 @@ Cada ejemplo debe incluir:
 - [ ] El contenido es claro y reproducible.
 - [ ] Incluye instrucciones de limpieza de recursos.
 - [ ] No contiene secretos ni datos sensibles.
-- [ ] El markdown esta bien formateado.
-- [ ] El cambio esta alineado con el objetivo comunitario del repo.
+- [ ] El markdown está bien formateado.
+- [ ] El cambio está alineado con el objetivo comunitario del repo.
 
 ## Plantillas y soporte
 

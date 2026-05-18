@@ -1,15 +1,11 @@
-<p align="center">
-	<img src="docs/assets/oci-sea-banner.svg" alt="OCI SEA Community Hub Banner" width="100%" />
-</p>
-
-<p align="center">
-	<img src="https://img.shields.io/badge/Cloud-OCI-F80000?style=for-the-badge" alt="OCI" />
-	<img src="https://img.shields.io/badge/Region-SEA-10BBD6?style=for-the-badge" alt="SEA" />
-	<img src="https://img.shields.io/badge/Focus-Docs%20Examples%20Templates-1F2A44?style=for-the-badge" alt="Focus" />
-	<img src="https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge" alt="MIT" />
-</p>
-
 # OCI + SEA Community Hub
+
+![OCI SEA Community Hub Banner](docs/assets/oci-sea-banner.svg)
+
+![OCI](https://img.shields.io/badge/Cloud-OCI-F80000?style=for-the-badge)
+![SEA](https://img.shields.io/badge/Region-SEA-10BBD6?style=for-the-badge)
+![Docs, Examples y Templates](https://img.shields.io/badge/Focus-Docs%20Examples%20Templates-1F2A44?style=for-the-badge)
+![MIT](https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge)
 
 Repositorio comunitario para documentar, compartir y reutilizar contenido práctico sobre Oracle Cloud Infrastructure (OCI), con foco regional en Southeast Asia (SEA).
 
@@ -49,7 +45,7 @@ Este repositorio centraliza:
 1. Revisa la guía de inicio en [docs/getting-started.md](docs/getting-started.md).
 2. Elige un punto de partida en [templates/README.md](templates/README.md).
 3. Ejecuta un ejemplo de [examples/terraform/README.md](examples/terraform/README.md) o [examples/cli/README.md](examples/cli/README.md).
-4. Aplica limpieza al terminar para evitar costos innecesarios.
+4. Aplica cleanup al terminar para evitar costos innecesarios.
 
 ## Principios del proyecto
 

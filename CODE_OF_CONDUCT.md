@@ -1,2 +1,3 @@
 # Code of Conduct
-Sé respetuoso, inclusivo y colaborativo. Cero tolerancia a acoso.
+
+Sé respetuoso, inclusivo y colaborativo. Cero tolerancia al acoso.
